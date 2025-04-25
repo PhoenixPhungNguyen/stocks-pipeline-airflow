@@ -1,0 +1,11 @@
+[project]
+name = "stocks-pipeline-solution"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "apache-airflow>=2.10.5",
+    "apache-airflow-providers-docker>=4.3.1",
+    "pyspark>=3.5.5",
+]
