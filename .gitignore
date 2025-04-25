@@ -10,4 +10,4 @@ logs/
 # Virtual environments
 .venv
 
-docker/spark-app/aws-java-sdk-bundle-1.11.1026.jar
+docker/spark-app/aws-java-sdk-bundle-1.11.1026.jarconnection_strings.yml
